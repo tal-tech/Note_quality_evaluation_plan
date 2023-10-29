@@ -1,0 +1,13 @@
+note_neatness_service/src/opencv3.4.5/lib/libopencv_cudafilters.so.3.4.5
+note_neatness_service/src/opencv3.4.5/lib/libopencv_cudaarithm.so.3.4
+note_neatness_service/src/opencv3.4.5/lib/libopencv_cudaoptflow.so.3.4.5
+note_neatness_service/src/opencv3.4.5/lib/libopencv_cudawarping.so.3.4
+note_neatness_service/src/opencv3.4.5/lib/libopencv_cudaarithm.so
+note_neatness_service/src/opencv3.4.5/lib/libopencv_cudawarping.so
+note_neatness_service/src/opencv3.4.5/lib/libopencv_cudaarithm.so.3.4.5
+note_neatness_service/src/opencv3.4.5/lib/libopencv_cudafilters.so.3.4
+note_neatness_service/src/opencv3.4.5/lib/libopencv_cudawarping.so.3.4.5
+note_neatness_service/src/opencv3.4.5/lib/libopencv_cudaoptflow.so.3.4
+note_neatness_service/src/opencv3.4.5/lib/libopencv_cudaoptflow.so
+note_neatness_service/src/opencv3.4.5/lib/libopencv_cudafilters.so
+note_neatness_service/src/det_ge_mma_ctpn/data/python/models/ctpn_50000.ckpt.data-00000-of-00001
